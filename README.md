@@ -1,10 +1,12 @@
-##LATIHAN ReactJS (reactstrap - react-boostrap)
+## LATIHAN ReactJS (reactstrap - react-boostrap)
 <a href="https://reactjs-pwa-dae67.web.app/">https://reactjs-pwa-dae67.web.app/</a>
 
-##reactstrap
+## reactstrap
 <a href="https://reactstrap.github.io/">https://reactstrap.github.io/</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
