@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+h1:hover{
+  transform: scale(1.25);
+  filter: blur(5px);
+  transition: 1s;
+}
+
+.apps{
+  text-align: center;
+  color: blue;
+}
+
+.salam{
+  text-align: center;
+  color: green;
+}
+
+.main{
+  text-align: center;
+  color: purple;
+}
+
+.footer{
+  text-align: center;
+  color: black;
+  padding: 50px;
+}
+
+
